@@ -6,3 +6,4 @@ mollusk/
 /target/
 **/*.rs.bk
 Cargo.lock
+.claude
